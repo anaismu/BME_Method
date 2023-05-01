@@ -3,6 +3,20 @@ Murat A. C., Koutsombogera M., Vogel C. (2023). Event Chronography in Multimodal
 
 It allows to align according to the BME method two input tiers given their timestamps.
 
+## FILE PRESENTATIONS
+### Git_BME_Main.py 
+Main code in which the files info have to be entered
+
+### Git_BME_Functions.py 
+Function code that has to be downloaded as well
+
+#### annotation1.csv and annotation2.csv
+Example of input file for a demo
+
+### Demo.csv
+Example of output file created.
+
+
 ## NOTES
 
 To use the code as is, your input files (one per tier) must be .csv files with at minimum 4 columns:
